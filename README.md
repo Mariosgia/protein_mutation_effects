@@ -9,7 +9,7 @@ Computational workflow for studying the impact of point mutations on protein str
 
 ## Overview
 
-This project investigates how surface mutations affect protein structure and physicochemical properties using lysozyme (PDB: 1LYZ) as a model system.
+This project investigates how surface mutations affect protein structure and surface properties using lysozyme (PDB: 1LYZ) as a model system.
 
 The pipeline includes:
 
