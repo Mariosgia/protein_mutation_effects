@@ -1,0 +1,22 @@
+load 1LYZ_with_ss.pdb
+hide everything
+show cartoon
+
+# Use DSSP labels stored in B-factor
+alter (b > 0.5 and b < 1.5), ss='H'
+alter (b > 1.5 and b < 2.5), ss='S'
+alter (b > 2.5 and b < 3.5), ss='L'
+
+rebuild
+
+# Color secondary structure
+color red, ss h
+color yellow, ss s
+color green, ss l
+
+show surface 
+# Color only the surface (not the cartoon)
+set surface_color, lightblue
+
+# Make surface transparent (0 = opaque, 1 = invisible)
+set transparency, 0.7

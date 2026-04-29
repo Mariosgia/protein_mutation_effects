@@ -1,0 +1,7 @@
+model,n_exposed_residues,n_hydrophobic_surface_residues,n_positive_surface_residues,n_negative_surface_residues,net_surface_charge_count
+1LYZ_G102D_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,82,20,18,10,8
+1LYZ_P70A_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,82,20,18,9,9
+1LYZ_Q41E_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,81,20,18,10,8
+1LYZ_R21E_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,83,20,17,10,7
+1LYZ_T118F_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,82,21,18,9,9
+wt_unrelaxed_rank_001_alphafold2_ptm_model_5_seed_000,81,20,18,9,9
