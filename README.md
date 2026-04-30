@@ -44,8 +44,6 @@ Surface properties are computed using FreeSASA:
 - Charged residues (+ / −)
 - Net surface charge
 
-### 5. Visualization
-Results are plotted using a consistent matplotlib style (`plot_style.mplstyle`).
 
 ---
 
